@@ -1,4 +1,4 @@
-Student Management System
+## Student Management System
 
 This project was developed as the **CMPE241 Computer Programming II – Term Project**.
 
